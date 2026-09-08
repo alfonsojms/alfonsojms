@@ -4,24 +4,24 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&width=550&lines=Full+Stack+Developer+(Jr);Agency+Founder+%26+Builder;AI-Augmented+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&width=580&lines=Software+Engineer+%7C+Backend-Focused;Full+Stack+Developer+(JR);Agency+Founder+%40+Kodex;AI-Augmented+Builder" alt="Typing SVG" />
 </p>
 
-> *"Building pragmatic web solutions at the intersection of frontend, backend, and AI."*
+> *"Engineering resilient backend systems and practical full-stack solutions driven by clean architecture and continuous learning."*
 
 ---
 
 ### <img src="https://api.iconify.design/lucide:user-round.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> About Me / Sobre Mí
 
 **[EN]**  
-I am a **Junior Full Stack Developer** passionate about crafting end-to-end digital experiences. In an era where AI accelerates technology, I embrace both frontend and backend to build versatile, agile, and practical digital solutions.
+I am a **Software Engineer** graduated in 2024 from *Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"* (Venezuela). As a **Junior Full Stack Developer with a strong passion and focus on backend development**, I specialize in designing scalable APIs, structured relational databases, and clean business logic that powers reliable web applications.
 
-Alongside software engineering, I run a **boutique web development agency**, delivering production-ready projects and modern digital products for active clients.
+Beyond writing code, I founded and run a **boutique web development agency (Kodex)**, where I ship production-ready applications for active clients. I leverage an **AI-augmented engineering workflow** to iterate rapidly without cutting corners on architectural integrity.
 
 **[ES]**  
-Soy un **Desarrollador Full Stack Junior** apasionado por construir experiencias digitales de principio a fin. En un entorno donde la IA impulsa la evolución tecnológica, me desenvuelvo tanto en frontend como en backend para crear soluciones versátiles y funcionales.
+Soy **Ingeniero en Informática** graduado en 2024 por la *Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"*. Como **Desarrollador Full Stack Junior con un marcado enfoque e interés en el backend**, me especializo en diseñar APIs robustas, modelado eficiente de bases de datos relacionales y lógica de negocio sólida para soportar productos estables.
 
-Además del desarrollo de software, dirijo una **agencia boutique de desarrollo web**, entregando soluciones reales a clientes activos con foco en rendimiento, diseño y resultados.
+Además, dirijo una **agencia boutique de desarrollo web (Kodex)**, entregando software en producción a clientes reales con foco en rendimiento y calidad. Integro metodologías de **ingeniería asistida por IA** para acelerar tiempos de desarrollo sin comprometer los fundamentos de ingeniería de software.
 
 ---
 
@@ -30,24 +30,24 @@ Además del desarrollo de software, dirijo una **agencia boutique de desarrollo 
 <table>
   <thead>
     <tr>
-      <th align="left">Category</th>
+      <th align="left">Area</th>
       <th align="left">Technologies & Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro" alt="Frontend Skills" />
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td><strong>Backend & Databases</strong></td>
       <td>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql" alt="Backend & DB Skills" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ts,js,react,astro,html,css" alt="Frontend Skills" />
         </a>
       </td>
     </tr>
@@ -76,11 +76,12 @@ Además del desarrollo de software, dirijo una **agencia boutique de desarrollo 
 
 ---
 
-### <img src="https://api.iconify.design/lucide:crosshair.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> Current Focus / Enfoque Actual
+### <img src="https://api.iconify.design/lucide:crosshair.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> Value & Focus / Propuesta de Valor y Enfoque
 
-- <b>&rarr; Agency & Client Projects:</b> Delivering clean, responsive, and maintainable websites/apps for business clients.
-- <b>&rarr; AI-Augmented Development:</b> Integrating AI workflows and LLM APIs to build faster and smarter.
-- <b>&rarr; Continuous Growth:</b> Deepening database architecture (PostgreSQL / MySQL) and robust backend logic.
+- <b>&rarr; Backend Architecture & Data Integrity:</b> Modelado relacional eficiente (PostgreSQL / MySQL) y diseño de APIs RESTful limpias con Node.js, Express y PHP.
+- <b>&rarr; End-to-End Production Delivery:</b> Capacidad de construir interfaces modernas y responsivas (React / Astro / TypeScript) perfectamente conectadas con el backend para resolver necesidades de negocio reales.
+- <b>&rarr; Business & Client-Centric Mindset:</b> Experiencia real gestionando requerimientos, entregables y despliegues para clientes a través de mi agencia.
+- <b>&rarr; High-Velocity Engineering:</b> Uso estratégico de IA y automatizaciones (Cursor, Claude, n8n) para multiplicar la productividad y reducir el tiempo de salida a producción.
 
 ---
 
@@ -90,8 +91,8 @@ Además del desarrollo de software, dirijo una **agencia boutique de desarrollo 
   <a href="https://linkedin.com/in/alfonso-mendoza-7a9265408" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
-  <a href="https://wearekodex.com" target="_blank" title="Website">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9D1lkZk9SvgfHGSoc8-HJmxdmzI-ZbkTbiudeE4Tmg&s=10" alt="Website" title="Website" height="28" style="vertical-align: middle; border-radius: 4px;" />
+  <a href="https://wearekodex.com" target="_blank" title="Agency Website">
+    <img src="https://img.shields.io/badge/Kodex-Agency_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Agency Website" height="28" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alfonsojmendozas@gmail.com" target="_blank" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="28" />
@@ -101,5 +102,5 @@ Además del desarrollo de software, dirijo una **agencia boutique de desarrollo 
 ---
 
 <p align="center">
-  <sub>Crafted with precision & continuous curiosity.</sub>
+  <sub>Engineered with precision, solid foundations & continuous curiosity.</sub>
 </p>
