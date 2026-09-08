@@ -75,7 +75,7 @@ Actualmente disponible para **oportunidades remotas Full-Time** donde pueda apor
     <tr>
       <td><strong>Automation & AI Tools</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/n8n-Workflows-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/n8n-Workflow-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
         <img src="https://img.shields.io/badge/Cursor-AI%20IDE-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
         <img src="https://img.shields.io/badge/Claude-Research%20%26%20Review-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
         <img src="https://img.shields.io/badge/Gemini-Assistance-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini" />
