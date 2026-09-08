@@ -4,29 +4,29 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&width=620&lines=Software+Engineer+(UPTT+'24);Junior+Full+Stack+Developer;Backend-Focused+Builder;Co-Founder+%26+Developer+%40wearekodex" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&width=620&lines=Software+Engineer+(UPTT+'24);Junior+Full+Stack+Developer;Backend-Oriented+Engineer;Co-Founder+%26+Developer+%40wearekodex" alt="Typing SVG" />
 </p>
 
 
-> *"Computer Engineer focused on building dependable backend services, clean relational databases, and pragmatic full-stack web solutions."*
+> *"Computer Engineer bridging polished web applications with structured backend logic, relational data modeling, and clean code."*
 
 ---
 
 ### <img src="https://api.iconify.design/lucide:user-round.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> About Me / Sobre Mí
 
 **[EN]**  
-I am a **Software Engineer** graduated in 2024 from *Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"* (Venezuela). As a **Junior Full Stack Developer with a strong attraction to Backend development**, I enjoy connecting clean data modeling and robust server logic with responsive, user-facing applications.
+I am a **Software Engineer** graduated in 2024 from *Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"* (Venezuela). As a **Junior Full Stack Developer with a strong focus on Backend development**, I combine my computer science foundations with a practical drive to build reliable server-side systems, RESTful APIs, and relational databases.
 
-I am also the **Co-Founder & Lead Developer at Kodex**, a boutique web agency where I handle end-to-end development, deploying production-ready websites and software solutions for active clients. I bring solid computer science fundamentals, an adaptive mindset across both frontend and backend, and an appetite for tackling backend architecture challenges.
+I am also the **Co-Founder & Web Developer at Kodex**, a boutique agency where I deliver modern, responsive web products for active clients. While my commercial work focuses on frontend delivery and client solutions, my core engineering pursuit is centered on backend architecture, database integrity, and scalable business logic.
 
-Currently open to **Full-Time Remote Software Engineering opportunities** where I can contribute actively, collaborate across teams, and continue growing as a backend specialist.
+Currently open to **Full-Time Remote Software Engineering opportunities** where I can contribute actively with full-stack versatility while deepening my expertise in backend systems.
 
 **[ES]**  
-Soy **Ingeniero en Informática** graduado en 2024 por la *Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"*. Como **Desarrollador Full Stack Junior con mayor inclinación y pasión por el Backend**, disfruto diseñar esquemas de datos relacionales, construir APIs estables y conectar la lógica del servidor con interfaces web funcionales.
+Soy **Ingeniero en Informática** graduado en 2024 por la *Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"*. Como **Desarrollador Full Stack Junior con un marcado enfoque en el Backend**, combino los fundamentos de mi carrera con el diseño de servicios estables, APIs RESTful y modelado de bases de datos relacionales.
 
-Soy además **Co-Fundador y Desarrollador Principal en Kodex**, una agencia boutique de desarrollo web donde gestiono el ciclo completo de entrega para clientes reales en producción. Combino fundamentos sólidos de ingeniería informática, versatilidad en todo el stack y una alta capacidad de aprendizaje continuo.
+Soy además **Co-Fundador y Desarrollador Web en Kodex**, una agencia boutique donde desarrollo y entrego productos web modernos para clientes activos. Mientras que mi experiencia comercial se ha centrado en frontend y soluciones para clientes, mi dedicación y estudio en ingeniería están enfocados en la arquitectura backend, integridad de datos y lógica de servidor.
 
-Actualmente disponible para **oportunidades remotas Full-Time** donde pueda aportar valor desde el primer día y seguir especializándome en arquitecturas backend.
+Actualmente disponible para **oportunidades remotas Full-Time** donde pueda aportar versatilidad full-stack y continuar especializándome en sistemas backend.
 
 ---
 
@@ -88,11 +88,11 @@ Actualmente disponible para **oportunidades remotas Full-Time** donde pueda apor
 
 ### <img src="https://api.iconify.design/lucide:crosshair.svg?color=%2338bdf8" width="18" height="18" valign="middle" /> What I Bring to a Team / Lo Que Aporto
 
-- <b>&rarr; Solid Computer Science Foundations:</b> Titulado en Ingeniería en Informática con entendimiento de algoritmos, lógica de programación y estructuras de datos.
-- <b>&rarr; Backend Focus with Full-Stack Versatility:</b> Capaz de construir tanto servicios REST y consultas relacionales (PostgreSQL/MySQL) como interfaces dinámicas en TypeScript y React sin bloquear dependencias.
-- <b>&rarr; Production & Client Experience:</b> Como co-fundador técnico en Kodex, sé lo que significa levantar requerimientos, solucionar incidencias y entregar software funcional a tiempo para negocios activos.
-- <b>&rarr; Agile & Continuous Learner:</b> Proactivo en adoptar estándares de la industria (TypeScript, testing unitario, contenedores con Docker) y optimizar flujos de trabajo con automatizaciones.
-- <b>&rarr; Remote Work Readiness:</b> Autonomía, comunicación asíncrona clara (español nativo / inglés técnico y profesional) y disciplina para colaborar con equipos distribuidos.
+- <b>&rarr; Solid Computer Science Foundations:</b> Titulado en Ingeniería en Informática con formación en algoritmos, lógica computacional y modelado de datos.
+- <b>&rarr; Proven Client & Delivery Experience:</b> En Kodex he gestionado requerimientos reales, diseño de interfaces y despliegues a producción para negocios en activo.
+- <b>&rarr; Strong Backend Aspiration & Skills:</b> Conocimiento práctico en desarrollo de APIs REST (Node.js/Express, PHP) y bases de datos relacionales (PostgreSQL/MySQL).
+- <b>&rarr; Fast Learner & Industry Standards:</b> Proactivo en adoptar estándares modernos de desarrollo (TypeScript, contenedores con Docker, testing con Vitest).
+- <b>&rarr; Remote Work Ready:</b> Comunicación asíncrona efectiva (español nativo / inglés técnico funcional), autonomía y alta responsabilidad.
 
 ---
 
